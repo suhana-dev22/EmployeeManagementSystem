@@ -1,0 +1,13 @@
+# Eclipse metadata
+EmpMgtBackend/.metadata/
+
+# React
+emp_mgt_frontend/node_modules/
+emp_mgt_frontend/build/
+
+# Spring Boot
+EmpMgtBackend/emp_mgt_backend/target/
+
+# IDE files
+*.log
+*.class

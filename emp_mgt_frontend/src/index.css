@@ -1,0 +1,17 @@
+body {
+  
+  background-color: #f5f7fa;
+  font-family:Arial,  sans-serif;
+}
+
+.card{
+  border-radius: 12px;;
+}
+
+.table th,
+.table td{
+  vertical-align:middle;
+}
+
+
+
